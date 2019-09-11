@@ -4,6 +4,7 @@
 # 2. Generating Random Variables
 #fdslkajfdlsakjf;lkdsajfkldas
 hjhj
+fdsafdsafdsafdsafdsafdsafdsafadssfda
 
 # ===========================  Coin Flips ==============================
 # Imagine that you are flipping a fair coin, up to 1000 times. 
